@@ -1,0 +1,30 @@
+.container{
+  max-width: 1360px !important;
+}
+.menu_li{
+  padding : 3px 15px;
+}
+.MenuContent{
+  color: white;
+  font-size: 21px;
+  font-weight: 600;
+  
+}
+.MenuContent:hover{
+  color: white;
+  list-style: none;
+  text-decoration: none;
+  
+}
+.iconContent{
+  background: linear-gradient( #0abfe3d2 ,  #0abfe3d0), url('./Images/banner1.png');
+}
+.sliderImg{
+  margin : 50px
+}
+
+/* @media screen and (max-width : 767px){
+  .servicesContainer{
+    padding: 10px !important;
+  }
+} */
